@@ -1,6 +1,8 @@
 Code and Data Accompanying the Paper "Approaching nested named entity recognition with parallel LSTM-CRFs"
 =======================
-This repository offers code and data to replicate the best solution underlying the paper "Approaching nested named entity recognition with parallel LSTM-CRFs" by Łukasz Borchmann, Andrzej Gretkowski and Filip Graliński (Proceedings of AI & NLP Workshop Day 2018).
+This repository offers code and data to replicate the best solution underlying the paper: Borchmann, Łukasz; Gretkowski, Andrzej; Graliński, Filip. _Approaching nested named entity recognition with parallel LSTM-CRFs_. Ogrodniczuk, Maciej; Kobyliński, Łukasz (Ed.): _Proceedings of the PolEval 2018 Workshop_, pp. 63-73, Institute of Computer Science, Polish Academy of Science, Warszawa, 2018.
+
+\[[PDF](http://www.borchmann.pl/wp-content/uploads/2018/10/borchmann-lukasz.pdf), [BibTeX](ref.bib)\]
 
 General information
 -------------------
