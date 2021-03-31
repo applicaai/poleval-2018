@@ -12,7 +12,7 @@ flair==0.2.1
 gensim==3.4.0
 idna==2.7
 jmespath==0.9.3
-lxml==4.6.2
+lxml==4.6.3
 numpy==1.15.1
 pyasn1==0.4.4
 python-dateutil==2.7.3
