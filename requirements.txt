@@ -19,7 +19,7 @@ python-dateutil==2.7.3
 PyYAML==3.12
 regex==2018.8.29
 requests>=2.20.0
-rsa==3.4.2
+rsa==4.7
 s3transfer==0.1.13
 scipy==1.1.0
 segtok==1.5.6
